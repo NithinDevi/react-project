@@ -1,0 +1,28 @@
+.table-layout .checkbox{
+    display: flex;
+    align-items: center;
+  }
+  .css-1i4ywhz-MuiCollapse-wrapperInner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: -5px;
+  }
+  /* .css-18n3xcc-MuiTableCell-root.MuiTableCell-head{
+    width: 12.2857%;
+  } */
+  
+  /* .countries-table .checkbox {
+    margin-top: 10px;
+    border: 2px solid green;
+  }
+  
+  .countries-table .labelName {
+    flex: 1;
+    padding-top: 8px;
+  }
+  
+  .countries-table .statusIcon {
+    margin-right: 20px;
+    padding-top: 1px;
+  } */
