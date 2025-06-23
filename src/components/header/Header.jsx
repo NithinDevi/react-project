@@ -27,7 +27,7 @@ const Header = () => {
 
   const handleLogout = () => {
     localStorage.removeItem('isAuthenticated');
-    toast.success('Logged out successfully');
+    // toast.success('Logged out successfully');
     handleClose();
     navigate('/login');
   };
